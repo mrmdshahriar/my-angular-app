@@ -14,7 +14,7 @@ import { CommonModule } from '@angular/common';
     <ng-container *ngTemplateOutlet="ok ? okTpl : errorTpl"></ng-container>
 
 <ng-template #okTpl>
-  <h2>OK111 ✅</h2>
+  <h2>OK111 5555✅</h2> 
 </ng-template>
 
 <ng-template #errorTpl>
